@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+meu nome é *lohanny saldanha*
+estou estudando no alura
+📫 How to reach me: 
+00001126813989sp@l.educacao.sp.gov.br
 <!--
 **Lohanny110/lohanny110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
